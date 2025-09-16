@@ -1,7 +1,7 @@
 if SHIELD_SEAGULL
 
 config ZMK_KEYBOARD_NAME
-    default "Hybrid x"
+    default "Hybrid x pro"
 
 if ZMK_DISPLAY
 
